@@ -1,4 +1,4 @@
-..# Import necessary modules
+.# Import necessary modules
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import google.generativeai as genai
